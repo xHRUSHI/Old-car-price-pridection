@@ -1,2 +1,1 @@
-# Old-car-price-pridection
-pridict the car price
+# Here am try to predict old car price using machine learning algorithims.
